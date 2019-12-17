@@ -1,0 +1,6 @@
+[extension]
+name=CentOS extension
+baseurl=https://somata.gitee.io/CentOS-extension/
+enable=1
+gpgcheck=1
+gpgkey=https://somata.gitee.io/CentOS-extension/GPG-RPM-KEY-somata
