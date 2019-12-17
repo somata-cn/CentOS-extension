@@ -1,6 +1,6 @@
 [extension]
 name=CentOS extension
-baseurl=https://somata.gitee.io/CentOS-extension/
+baseurl=https://somata.gitee.io/centos-extension/
 enable=1
 gpgcheck=1
-gpgkey=https://somata.gitee.io/CentOS-extension/GPG-RPM-KEY-somata
+gpgkey=https://somata.gitee.io/centos-extension/GPG-RPM-KEY-somata
